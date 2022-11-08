@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+        font-size: 18px;
+}
+  
+input[type="text"]{
+  background-color: grey;
+}
+a[href^="https://"]{
+  color: black;
+}
+a[href*="login"]{
+  color: green;
+  text-decoration: line-through;
+}
+  

@@ -1,0 +1,20 @@
+.container {
+  height: 300px;
+  position: relative;
+  border: 1px solid #DCDCDC;
+  background-color: #F5F5F5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.item {
+  width: 300px;
+  height: 35px;
+  margin: 10px;
+  padding-top: 15px;
+  border-radius: 5px;
+  background-color: #ADD8E6;
+  text-align: center;
+  color: #333;
+}

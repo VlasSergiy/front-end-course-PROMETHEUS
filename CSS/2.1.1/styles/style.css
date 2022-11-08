@@ -1,0 +1,47 @@
+h3, p, a {
+      	font-family: Arial, Helvetica, sans-serif;
+  		color: black;
+        /* додайте CSS стилі, якщо потрібно */
+  
+      }
+      h3 {
+  		font-size: 24px;
+  		text-align: center;
+        /* додайте CSS стилі, якщо потрібно  */
+  
+      }
+      p {
+  		font-size: 16px;
+        /* додайте CSS стилі, якщо потрібно  */
+  
+      }
+      a {
+  		font-size: 14px;
+        text-decoration: none;
+        /* додайте CSS стилі, якщо потрібно  */
+  
+      }
+      .article1, .article2, .article3 {
+        border: 2px solid grey;
+        padding: 10px;
+        margin: 5px;
+        width: 300px;
+        display: inline-block;
+        /* додайте CSS стилі, якщо потрібно  */
+  
+      }
+      .article1 {
+  
+        /* додайте CSS стилі, якщо потрібно  */
+  
+      }
+      .article2 {
+  
+        /* додайте CSS стилі, якщо потрібно  */
+  
+      }
+      .article3 {
+  
+        /* додайте CSS стилі, якщо потрібно  */
+  
+      }
